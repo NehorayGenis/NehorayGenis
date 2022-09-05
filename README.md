@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nehoray genis</h1>
-<h3 align="center">A passionate fullstack/frontend developer from India</h3>
+<h3 align="center">A passionate fullstack/frontend developer from Israel</h3>
 
 - 🔭 I’m currently working on **contact app**
 
